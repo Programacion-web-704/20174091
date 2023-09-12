@@ -15,3 +15,10 @@ function restar(){
     document.getElementById("rpta").innerHTML = valor_rest
 }
 
+/*Como subir todo a git 
+git init
+git add .
+git commit -m "Algun mensaje"
+git push -u origin master> */
+
+
