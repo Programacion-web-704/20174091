@@ -19,6 +19,7 @@ function restar(){
 git init
 git add .
 git commit -m "Algun mensaje"
+git remote add origin link del repositorio
 git push -u origin master> */
 
 
